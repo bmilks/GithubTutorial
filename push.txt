@@ -1,0 +1,4 @@
+What is a PUSH?
+
+PUSHing a file is when you make changes to it. Then, you go to GitHub Desktop to 
+"commit to master!"
