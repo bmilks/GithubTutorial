@@ -1,0 +1,1 @@
+This repository is a tutorial so everyone can learn how to use GitHub!
